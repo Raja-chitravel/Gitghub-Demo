@@ -4,6 +4,7 @@
  
 📍 Chennai, India | 📫 rajachitravel1@gmail.com  
 
+---
 
 ###  🛠️ Tools & Technologies
 
@@ -27,8 +28,15 @@
 
 **Artifact Repository:** JFrog Artifactory
 
+---
+
 **Cloud Platform:** Amazon Web Services (AWS)
 
-**Issue Tracking / CRM:** In-house CRM (custom-built)
+---
+
+**Issue Tracking:** In-house CRM (custom-built)
 
 ---
+
+On-Permesis
+
