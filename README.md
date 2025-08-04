@@ -4,7 +4,6 @@
  
 📍 Chennai, India | 📫 rajachitravel1@gmail.com  
 
----
 
 ###  🛠️ Tools & Technologies
 
@@ -14,7 +13,7 @@
 
 **Scripting Languages:** Bash, YAML
 
-**Build Tools:** Apache Maven
+**Build Tools:** Maven
 
 **CI Tools:** Jenkins
 
@@ -27,8 +26,6 @@
 **Application Server:** Apache Tomcat
 
 **Artifact Repository:** JFrog Artifactory
-
-**Web Server:** Apache HTTP Server
 
 **Cloud Platform:** Amazon Web Services (AWS)
 
