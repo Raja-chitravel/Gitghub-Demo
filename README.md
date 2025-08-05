@@ -39,6 +39,7 @@ Proficient in configuring IAM for secure access control and implementing fine-gr
 Experienced in managing DNS and global content delivery through Route 53 and CloudFront to ensure optimized performance and availability. Developed and maintained CI/CD pipelines using CodeCommit, CodeBuild, CodeDeploy, and CodePipeline to automate application delivery.
 
 Configured comprehensive monitoring solutions with Amazon CloudWatch for logs and metrics, integrated with Prometheus and Grafana for real-time observability. This ensures high availability, performance monitoring, and proactive alerting across both traditional and containerized workloads in AWS environments.
+
 ---
 
 ### **Issue Tracking:** In-house CRM (custom-built)
