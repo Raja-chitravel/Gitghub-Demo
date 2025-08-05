@@ -32,6 +32,13 @@
 
 ### **Cloud Platform:** Amazon Web Services (AWS)
 
+Extensive experience in designing and managing secure, scalable, and resilient infrastructure using AWS services. Skilled in leveraging core AWS offerings such as EC2, AMI, S3, EBS, EFS, FSx, RDS, DynamoDB, VPC, ELB, and Auto Scaling to support diverse application workloads.
+
+Proficient in configuring IAM for secure access control and implementing fine-grained policy management across cloud environments. Hands-on expertise with the AWS CLI for scripting, automation, and efficient resource provisioning.
+
+Experienced in managing DNS and global content delivery through Route 53 and CloudFront to ensure optimized performance and availability. Developed and maintained CI/CD pipelines using CodeCommit, CodeBuild, CodeDeploy, and CodePipeline to automate application delivery.
+
+Configured comprehensive monitoring solutions with Amazon CloudWatch for logs and metrics, integrated with Prometheus and Grafana for real-time observability. This ensures high availability, performance monitoring, and proactive alerting across both traditional and containerized workloads in AWS environments.
 ---
 
 ### **Issue Tracking:** In-house CRM (custom-built)
