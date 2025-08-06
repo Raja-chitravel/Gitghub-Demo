@@ -57,3 +57,7 @@ Extensive experience in designing **secure, scalable, and resilient infrastructu
 Since choosing a career in IT, I’ve committed myself to **continuous learning and improvement**.  
 I’m always eager to explore new tools and technologies, with genuine enthusiasm and curiosity.  
 I believe in staying adaptable, upgrading skills, and contributing meaningfully to every team I work with.
+
+
+In my free time, I enjoy playing **cricket**, **carrom**, and **shuttle badminton**, as well as listening to **tech podcasts**. 
+I'm also a **nature lover**, and at times, I prefer spending quiet moments in **solitude** to relax and clear my mind.
