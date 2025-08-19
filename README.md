@@ -16,7 +16,7 @@
 **Containers:** Docker  
 **Orchestration:** Kubernetes  
 **Security & Code Quality:** SonarQube, Trivy  
-**Artifact Repositories:** JFrog Artifactory  
+**Artifact Repositories:** Nexus Artifactory  
 **Application Servers:** Apache Tomcat  
 **Cloud Platform:** Amazon Web Services (AWS)  
 
